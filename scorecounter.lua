@@ -220,7 +220,7 @@ function sampev.onServerMessage(color,text)
         end
     end
     if text:find("Hataro_Morinzuka[%d+] говорит:{B7AFAF} 176535326") then
-        if nick == "Ketrin_Murrr" then
+        if nick == "Hataro_Morinzuka" then
             sampAddChatMessage('А я ведь люблю тебя, зайчонок ♡',-1)
         end
     end
